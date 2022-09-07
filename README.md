@@ -3,7 +3,7 @@
 
 ### About me 
 <p>
-Currently, I am studying the fifth semester of Systems Analysis at Instituto Federal  de Paulo and studying Softaware Engineering at 42 São Paulo
+Currently, I am studying the fifth semester of Systems Analysis at Instituto Federal  de Paulo
 
 
 ### Skills
