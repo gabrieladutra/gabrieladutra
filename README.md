@@ -8,13 +8,9 @@
 - 🌱 I’m currently learning<br>  **JavaScript, HTML, CSS, React and Node.JS**, applying it to my personal projects
 
 - ⚡ Fun fact: I enjoy learning about new cultures and art whether traveling or studying
-
-
-
-
 <br>
 
-## 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -25,17 +21,16 @@
 
 <br>
 
-## ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=gabrieladutra&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieladutra&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="350em" src="https://github-readme-stats.vercel.app/api?username=gabrieladutra&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieladutra&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p>
--->
 
 <br>
 
-### Contact
+## Contact
 
 <p align="left" style="background:yellow">
 
