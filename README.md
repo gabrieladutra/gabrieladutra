@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/gabrieladutra/cfe4b621aac6405726c95269e5f37f41/raw/b879750574b31e981b75e0d606d2ee4fe589409b/githubcard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/gabrieladutra/cfe4b621aac6405726c95269e5f37f41/raw/c0c0d7713f1866c6b16705e9d5ab77dca28e8ea0/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Gabriela D. Dutra</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabriela&color=yellow" alt="Profile views" /> </p>
 
