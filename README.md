@@ -1,5 +1,5 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/gabrieladutra/cfe4b621aac6405726c95269e5f37f41/raw/b879750574b31e981b75e0d606d2ee4fe589409b/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm gabriela D. Dutra</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Gabriela D. Dutra</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabriela&color=yellow" alt="Profile views" /> </p>
 
 
@@ -33,14 +33,14 @@
 
 <br>
 
-## Contact
+### Contact
 
 <p align="left" style="background:yellow">
 
-<a href="https://linkedin.com/in/gabrieladutra" target="_blank">
+<a href="https://linkedin.com/in/gabrieladiasdutra" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-gabrieladutra-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="mailto://gabriela_ddutra@outlook.com" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-gabrieladutra-05122A?style=flat&logo=mail" alt="mail"/>
+ <img align="center" src="https://img.shields.io/badge/mail-gabrieladutra-blue" alt="mail"/>
 </a>
 </p>
