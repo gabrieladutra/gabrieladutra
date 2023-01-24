@@ -1,13 +1,15 @@
 <img align="right" height="300em" src="https://raw.githubusercontent.com/gist/gabrieladutra/cfe4b621aac6405726c95269e5f37f41/raw/8f1456b54d1b25d59dc4c5daae3e67ab35c7457a/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Gabriela D. Dutra</h1>
+<h2 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="20px">, I'm Gabriela</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabriela&color=yellow" alt="Profile views" /> </p>
 
+  
+- 🔭 I am a fifth semester systems analysis student<br>and my focus is frontend development
 
-- 🔭 I am a fifth semester systems analysis student and my focus is frontend development
-
-- 🌱 I’m currently learning **JavaScript, HTML, CSS, React and Node.JS** and applying it to my personal projects
+- 🌱 I’m currently learning<br>  **JavaScript, HTML, CSS, React and Node.JS**, applying it to my personal projects
 
 - ⚡ Fun fact: I enjoy learning about new cultures and art whether traveling or studying
+
+
 
 
 <br>
