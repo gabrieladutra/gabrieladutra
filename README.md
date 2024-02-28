@@ -3,9 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabriela&color=yellow" alt="Profile views" /> </p>
 
   
-- 🔭 I am a fifth semester systems analysis student<br>and my focus is frontend development
+- 🔭 I am a sixth semester systems analysis student<br>and my focus is frontend development
 
-- 🌱 I’m currently learning<br>  **JavaScript, HTML, CSS, React and Node.JS**, applying it to my personal projects
+- 🌱 I’m currently learning<br>  **SQL, Python, Data Analysis**, applying it to my personal projects
 
 - ⚡ Fun fact: I enjoy learning about new cultures and art whether traveling or studying
 <br>
