@@ -1,5 +1,5 @@
 
-- Data Analyst 
+Data Analyst 
 <br>
 
 ### 🛠 &nbsp;Tech Stack
