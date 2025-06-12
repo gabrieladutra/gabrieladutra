@@ -3,11 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabriela&color=yellow" alt="Profile views" /> </p>
 
   
-- 🔭 I'm a sixth-semester systems analysis student and my focus is studying data technologies
-
-- 🌱 I’m currently learning<br>  **SQL, Python, Data Analysis**, applying it to my personal projects
-
-- ⚡ Fun fact: I enjoy learning about new cultures and art whether traveling or studying
+- Data Analyst 
 <br>
 
 ### 🛠 &nbsp;Tech Stack
