@@ -1,4 +1,4 @@
-### 🛠 &nbsp;Tech Stack
+### Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;
@@ -6,9 +6,8 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 
-<br>
 
-## Contact
+### Contact
 
 <p align="left" style="background:yellow">
 
