@@ -7,15 +7,15 @@ Desenvolvedora Frontend | Javascript • React • AWS
 
 <p align="left">
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<a style="color: black; text-decoration: none;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="./assets/javascript.png" height="20">
 </a>&nbsp;
 
-<a href="https://react.dev/">
+<a style="color: black; text-decoration: none;" href="https://react.dev/">
   <img src="./assets/react.png" height="20">
 </a>&nbsp;
 
-<a href="https://tanstack.com/query/latest">
+<a style="color: black; text-decoration: none;" href="https://tanstack.com/query/latest">
   <img src="./assets/tanstack.svg" height="20">
 </a>&nbsp;
 
