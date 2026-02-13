@@ -7,16 +7,16 @@ Desenvolvedora Frontend | Javascript • React • AWS
 
 <p align="left">
 
-<a style="color: black; text-decoration: none;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="./assets/javascript.png" height="20">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: inherit; text-decoration: none;">
+  <img src="./assets/javascript.png" height="30">
 </a>&nbsp;
 
-<a style="color: black; text-decoration: none;" href="https://react.dev/">
-  <img src="./assets/react.png" height="20">
+<a href="https://react.dev/" style="color: inherit; text-decoration: none;">
+  <img src="./assets/react.png" height="30">
 </a>&nbsp;
 
-<a style="color: black; text-decoration: none;" href="https://tanstack.com/query/latest">
-  <img src="./assets/tanstack.svg" height="20">
+<a href="https://tanstack.com/query/latest" style="color: inherit; text-decoration: none;">
+  <img src="./assets/tanstack.svg" height="30">
 </a>&nbsp;
 
 <a href="https://aws.amazon.com/">
