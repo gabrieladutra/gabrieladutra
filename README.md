@@ -1,67 +1,65 @@
 # Gabriela Dias Dutra
 
-Desenvolvedora Frontend Jr. | Javascript • React • AWS
-
----
+Desenvolvedora Frontend | React • TanStack Query • AWS
 
 ## Tecnologias
 
-<p align="left">
+<p>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="22" />
-</a>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg" height="20" style="vertical-align:middle;" />
+</a>
 
 <a href="https://react.dev/" target="_blank">
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="22" />
-</a>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/react.svg" height="20" style="vertical-align:middle;" />
+</a>
 
 <a href="https://tanstack.com/query/latest" target="_blank">
-  <img src="https://cdn.simpleicons.org/reactquery/FF4154" width="22" />
-</a>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/reactquery.svg" height="20" style="vertical-align:middle;" />
+</a>
 
 <a href="https://aws.amazon.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="22" />
-</a>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonaws.svg" height="20" style="vertical-align:middle;" />
+</a>
 
 <a href="https://tailwindcss.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/tailwindcss/38B2AC" width="22" />
-</a>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tailwindcss.svg" height="20" style="vertical-align:middle;" />
+</a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img src="https://cdn.simpleicons.org/css3/1572B6" width="22" />
-</a>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/css3.svg" height="20" style="vertical-align:middle;" />
+</a>
 
 <a href="https://www.postgresql.org/" target="_blank">
-  <img src="https://cdn.simpleicons.org/postgresql/336791" width="22" />
-</a>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postgresql.svg" height="20" style="vertical-align:middle;" />
+</a>
 
 <a href="https://git-scm.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/git/F05032" width="22" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg" height="20" style="vertical-align:middle;" />
 </a>
 
 </p>
-
----
-
-## Objetivo
-
-Busco minha primeira oportunidade como desenvolvedora frontend, onde eu possa evoluir tecnicamente, contribuir com projetos reais e aprender com profissionais mais experientes. Quero atuar em um ambiente que valorize organização, boas práticas e foco na experiência do usuário.
-
-Sou recém-formada e estou no início da minha carreira. Tenho desenvolvido projetos próprios utilizando React, integração com APIs e deploy em AWS, buscando compreender a arquitetura das aplicações e não apenas a implementação. Estou motivada a crescer de forma consistente e assumir responsabilidades progressivamente.
 
 ---
 
 ## Conecte-se comigo
 
-<p align="left">
+<p>
 
 <a href="https://www.linkedin.com/in/gabrieladiasdutra" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="22" />
-</a>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" height="20" style="vertical-align:middle;" />
+</a>
 
 <a href="mailto:gabrieladutra1287@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="22" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" height="20" style="vertical-align:middle;" />
 </a>
 
 </p>
+
+## Sobre mim
+
+Busco minha primeira oportunidade como desenvolvedora frontend, onde eu possa evoluir tecnicamente e contribuir com projetos reais. Quero trabalhar em um ambiente que valorize organização, boas práticas e aprendizado contínuo.
+
+Sou recém-formada e estou no início da minha carreira. Tenho desenvolvido projetos próprios com React, integração com APIs e deploy na AWS, buscando entender a estrutura das aplicações além da implementação. Estou motivada a crescer de forma consistente e assumir responsabilidades progressivamente.
+
+---
