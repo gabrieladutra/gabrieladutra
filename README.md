@@ -8,7 +8,7 @@ Desenvolvedora Frontend | Javascript • React • AWS
 <p align="left">
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="./assets/javascript.svg" height="20">
+  <img src="./assets/javascript.png" height="20">
 </a>&nbsp;
 
 <a href="https://react.dev/">
@@ -16,7 +16,7 @@ Desenvolvedora Frontend | Javascript • React • AWS
 </a>&nbsp;
 
 <a href="https://tanstack.com/query/latest">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/reactquery.svg" height="20">
+  <img src="./assets/tanstack.svg" height="20">
 </a>&nbsp;
 
 <a href="https://aws.amazon.com/">
