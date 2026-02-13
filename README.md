@@ -7,37 +7,21 @@ Desenvolvedora Frontend | Javascript • React • AWS
 
 <p align="left">
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: inherit; text-decoration: none;">
   <img src="./assets/javascript.png" height="30">
-</a>&nbsp;
 
-<a href="https://react.dev/" style="color: inherit; text-decoration: none;">
   <img src="./assets/react.png" height="30">
-</a>&nbsp;
 
-<a href="https://tanstack.com/query/latest" style="color: inherit; text-decoration: none;">
+  <img src="./assets/aws.png" height="30">
+
   <img src="./assets/tanstack.svg" height="30">
-</a>&nbsp;
 
-<a href="https://aws.amazon.com/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" height="20">
-</a>&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg" height="30">
 
-<a href="https://tailwindcss.com/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg" height="20">
-</a>&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" height="30">
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" height="20">
-</a>&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg" height="30">
 
-<a href="https://www.postgresql.org/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg" height="20">
-</a>&nbsp;
-
-<a href="https://git-scm.com/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" height="20">
-</a>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" height="30">
 
 </p>
 
@@ -56,11 +40,11 @@ Sou recém-formada e estou no início da minha carreira. Tenho desenvolvido proj
 <p align="left">
 
 <a href="https://www.linkedin.com/in/gabrieladiasdutra">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="20">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="30">
 </a>&nbsp;
 
 <a href="mailto:gabrieladutra1287@gmail.com">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" height="20">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" height="30">
 </a>
 
 </p>
