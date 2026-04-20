@@ -6,6 +6,7 @@ Desenvolvedora Front-end | JavaScript • React • AWS
 
 ### 🌍 Idioma / Language
 
+<details open>
  <summary><strong>🇧🇷 Português</strong></summary><br />
 
 ### Objetivos
