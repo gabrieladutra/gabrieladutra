@@ -4,9 +4,8 @@ Desenvolvedora Front-end | JavaScript • React • AWS
 
 ---
 
-## 🌍 Idioma / Language
+### 🌍 Idioma / Language
 
-<details open>
  <summary><strong>🇧🇷 Português</strong></summary><br />
 
 ### Objetivos
@@ -93,7 +92,7 @@ Aplicação desenvolvida para automatizar a exibição de cardápios do SESC, tr
 <details>
  <summary><strong>🇺🇸 English</strong></summary><br />
 
-### 🚀 About me
+### About me
 
 I work as a front-end developer at an early stage in my career, focusing on building modern interfaces, API integration, and cloud-based applications (AWS).
 
@@ -103,7 +102,7 @@ I am interested in opportunities where I can contribute technically, deepen my s
 
 ---
 
-### 🛠️ Technologies
+### Technologies
 
 <p align="left">
  <img src="./assets/javascript.png" height="30">
@@ -118,7 +117,7 @@ I am interested in opportunities where I can contribute technically, deepen my s
 
 ---
 
-### ☁️ Cloud & AWS
+### AWS
 
 I have experience with AWS services used in personal and professional projects, including deployment, storage, monitoring, and access control.
 
@@ -159,7 +158,7 @@ Application developed to automate the display of SESC menus, transforming data i
 
 ---
 
-### 🤝 Connect with me
+### Connect with me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/gabrieladiasdutra">
