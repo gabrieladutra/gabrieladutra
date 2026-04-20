@@ -2,7 +2,6 @@
 
 Desenvolvedora Frontend | Javascript • React • AWS
 
-
 ### Tecnologias
 
 <p align="left">
@@ -15,13 +14,13 @@ Desenvolvedora Frontend | Javascript • React • AWS
 
   <img src="./assets/tanstack.svg" height="30">
 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg" height="30">
+  <img src="./assets/tailwind.svg" height="30">
 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" height="30">
+  <img src="./assets/css3.svg" height="30">
 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg" height="30">
+  <img src="./assets/mongo.svg" height="30">
 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" height="30">
+  <img src="./assets/git.svg" height="30">
 
 </p>
 
