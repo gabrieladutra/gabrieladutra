@@ -64,13 +64,10 @@ Sou recém-formada e estou no início da minha carreira. Tenho desenvolvido proj
 ### Conecte-se comigo
 
 <p align="left">
-
 <a href="https://www.linkedin.com/in/gabrieladiasdutra">
   <img src="./assets/linkedin.png" height="30">
 </a>
-
 <a href="mailto:gabrieladutra1287@gmail.com">
   <img src="./assets/gmail.png" height="30">
 </a>
-
 </p>
